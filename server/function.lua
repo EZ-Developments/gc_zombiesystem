@@ -14,7 +14,7 @@ function Inventory.RemoveItem(source, item, count, slot, metadata)
 end
 
 function Inventory.GetItemLabel(item)
-    return exports['qs-inventory']:GetItemLabel(naitemme)
+    return exports['qs-inventory']:GetItemLabel()
 end
 
 function Inventory.RemoveItem(source, item, count, slot, metadata)
