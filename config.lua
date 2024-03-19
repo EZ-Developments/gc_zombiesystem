@@ -13,3 +13,4 @@ Config.LogModules = ""
 ---- Standard Einstellungen
 ------------
 
+Config. Tatget = nil -- nil bedeutet in entwicklung
